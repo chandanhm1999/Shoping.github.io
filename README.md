@@ -1,11 +1,12 @@
 # ReactJS
+Redux scratch to hero code in this file for react-redux toolkit process!
 
 ```
 https:
 ```
 
-> Project Details:  
-> 
+> Project Details:  Redux toolkit! 
+> Redux scratch to hero code in this file for react-redux toolkit process!
 
 
 ## Project Preview:

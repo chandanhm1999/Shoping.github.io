@@ -13,7 +13,7 @@ https:
 
 ## Clone
 ```
-
+https://github.com/chandanhm1999/Shoping_cart_redux
 ```
 
 ## Project setup

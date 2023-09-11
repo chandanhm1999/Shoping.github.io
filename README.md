@@ -1,6 +1,6 @@
 # ReactJS
 Redux scratch to hero code in this file for react-redux toolkit process!!!
-s
+
 ```
 https:
 ```

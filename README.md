@@ -1,5 +1,5 @@
 # Shoping_cart_redux ReactJS 
-Redux scratch to hero code in this file for react-redux toolkit process!!
+Redux scratch to hero code in this file for react-redux toolkit process!!!
 
 ```
 https:
